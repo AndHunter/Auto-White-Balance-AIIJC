@@ -5,7 +5,7 @@
 This project was developed as part of the **AIIJC (Artificial Intelligence & Image Intelligence Joint Challenge)**.
 
 * **Track**: School Track
-* **Result**: 🥉 **3rd place(https://aiijc.com/ru/results2025?tab=schoolchildren&direction=%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82+AIRI)**
+* 🏆 **Result**: 🥉 [3rd place — AIIJC School Track](https://aiijc.com/ru/results2025?tab=schoolchildren&direction=%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82+AIRI)
 * **Competition website**: [https://aiijc.com/ru/](https://aiijc.com/ru/)
 
 📦 **Dataset (Kaggle)**:
